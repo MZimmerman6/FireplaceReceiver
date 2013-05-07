@@ -18,6 +18,28 @@
 		42277884168417F500030A15 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 42277883168417F500030A15 /* Default-568h@2x.png */; };
 		42277887168417F500030A15 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 42277886168417F500030A15 /* ViewController.m */; };
 		4227788A168417F500030A15 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 42277888168417F500030A15 /* ViewController.xib */; };
+		4227789216841B8A00030A15 /* fireplace1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4227789116841B8A00030A15 /* fireplace1.jpg */; };
+		422778A41684238100030A15 /* awayinamanger.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778951684238100030A15 /* awayinamanger.mp3 */; };
+		422778A51684238100030A15 /* gotellitto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778961684238100030A15 /* gotellitto.mp3 */; };
+		422778A61684238100030A15 /* haveyourself.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778971684238100030A15 /* haveyourself.mp3 */; };
+		422778A71684238100030A15 /* illbehome.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778981684238100030A15 /* illbehome.mp3 */; };
+		422778A81684238100030A15 /* joytotheworld.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778991684238100030A15 /* joytotheworld.mp3 */; };
+		422778A91684238100030A15 /* letitsnow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4227789A1684238100030A15 /* letitsnow.mp3 */; };
+		422778AA1684238100030A15 /* littledrummer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4227789B1684238100030A15 /* littledrummer.mp3 */; };
+		422778AB1684238100030A15 /* ocomeall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4227789C1684238100030A15 /* ocomeall.mp3 */; };
+		422778AC1684238100030A15 /* oholynight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4227789D1684238100030A15 /* oholynight.mp3 */; };
+		422778AD1684238100030A15 /* olittletown.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4227789E1684238100030A15 /* olittletown.mp3 */; };
+		422778AE1684238100030A15 /* silentnight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4227789F1684238100030A15 /* silentnight.mp3 */; };
+		422778AF1684238100030A15 /* silverbells.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778A01684238100030A15 /* silverbells.mp3 */; };
+		422778B01684238100030A15 /* whatchild.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778A11684238100030A15 /* whatchild.mp3 */; };
+		422778B11684238100030A15 /* whitechristmas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778A21684238100030A15 /* whitechristmas.mp3 */; };
+		422778B21684238100030A15 /* winterwonderland.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 422778A31684238100030A15 /* winterwonderland.mp3 */; };
+		422778BC16842B1600030A15 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 422778BB16842B1600030A15 /* AVFoundation.framework */; };
+		422778BE1684329600030A15 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 422778BD1684329600030A15 /* MediaPlayer.framework */; };
+		422778C416843A8D00030A15 /* fireplace.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 422778C316843A8D00030A15 /* fireplace.mp4 */; };
+		422778C616844A7500030A15 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 422778C516844A7500030A15 /* icon.png */; };
+		422778C816844A7700030A15 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 422778C716844A7700030A15 /* icon@2x.png */; };
+		42A598E91685ACB300E7A4E8 /* crackling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 42A598E81685ACB300E7A4E8 /* crackling.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +59,28 @@
 		42277885168417F500030A15 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		42277886168417F500030A15 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		42277889168417F500030A15 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		4227789116841B8A00030A15 /* fireplace1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fireplace1.jpg; sourceTree = "<group>"; };
+		422778951684238100030A15 /* awayinamanger.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = awayinamanger.mp3; sourceTree = "<group>"; };
+		422778961684238100030A15 /* gotellitto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gotellitto.mp3; sourceTree = "<group>"; };
+		422778971684238100030A15 /* haveyourself.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = haveyourself.mp3; sourceTree = "<group>"; };
+		422778981684238100030A15 /* illbehome.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = illbehome.mp3; sourceTree = "<group>"; };
+		422778991684238100030A15 /* joytotheworld.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = joytotheworld.mp3; sourceTree = "<group>"; };
+		4227789A1684238100030A15 /* letitsnow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = letitsnow.mp3; sourceTree = "<group>"; };
+		4227789B1684238100030A15 /* littledrummer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = littledrummer.mp3; sourceTree = "<group>"; };
+		4227789C1684238100030A15 /* ocomeall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ocomeall.mp3; sourceTree = "<group>"; };
+		4227789D1684238100030A15 /* oholynight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oholynight.mp3; sourceTree = "<group>"; };
+		4227789E1684238100030A15 /* olittletown.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = olittletown.mp3; sourceTree = "<group>"; };
+		4227789F1684238100030A15 /* silentnight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = silentnight.mp3; sourceTree = "<group>"; };
+		422778A01684238100030A15 /* silverbells.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = silverbells.mp3; sourceTree = "<group>"; };
+		422778A11684238100030A15 /* whatchild.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whatchild.mp3; sourceTree = "<group>"; };
+		422778A21684238100030A15 /* whitechristmas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whitechristmas.mp3; sourceTree = "<group>"; };
+		422778A31684238100030A15 /* winterwonderland.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = winterwonderland.mp3; sourceTree = "<group>"; };
+		422778BB16842B1600030A15 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		422778BD1684329600030A15 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		422778C316843A8D00030A15 /* fireplace.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = fireplace.mp4; sourceTree = "<group>"; };
+		422778C516844A7500030A15 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		422778C716844A7700030A15 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		42A598E81685ACB300E7A4E8 /* crackling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crackling.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +88,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				422778BE1684329600030A15 /* MediaPlayer.framework in Frameworks */,
+				422778BC16842B1600030A15 /* AVFoundation.framework in Frameworks */,
 				4227786E168417F500030A15 /* UIKit.framework in Frameworks */,
 				42277870168417F500030A15 /* Foundation.framework in Frameworks */,
 				42277872168417F500030A15 /* CoreGraphics.framework in Frameworks */,
@@ -56,6 +102,8 @@
 		4227785E168417F500030A15 = {
 			isa = PBXGroup;
 			children = (
+				422778C716844A7700030A15 /* icon@2x.png */,
+				422778C516844A7500030A15 /* icon.png */,
 				42277873168417F500030A15 /* FireplaceReceiver */,
 				4227786C168417F500030A15 /* Frameworks */,
 				4227786A168417F500030A15 /* Products */,
@@ -73,6 +121,8 @@
 		4227786C168417F500030A15 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				422778BD1684329600030A15 /* MediaPlayer.framework */,
+				422778BB16842B1600030A15 /* AVFoundation.framework */,
 				4227786D168417F500030A15 /* UIKit.framework */,
 				4227786F168417F500030A15 /* Foundation.framework */,
 				42277871168417F500030A15 /* CoreGraphics.framework */,
@@ -83,6 +133,9 @@
 		42277873168417F500030A15 /* FireplaceReceiver */ = {
 			isa = PBXGroup;
 			children = (
+				422778941684236B00030A15 /* video */,
+				422778931684236100030A15 /* music */,
+				4227789016841B7400030A15 /* images */,
 				4227787C168417F500030A15 /* AppDelegate.h */,
 				4227787D168417F500030A15 /* AppDelegate.m */,
 				42277885168417F500030A15 /* ViewController.h */,
@@ -105,6 +158,45 @@
 				42277883168417F500030A15 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4227789016841B7400030A15 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				4227789116841B8A00030A15 /* fireplace1.jpg */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		422778931684236100030A15 /* music */ = {
+			isa = PBXGroup;
+			children = (
+				42A598E81685ACB300E7A4E8 /* crackling.mp3 */,
+				422778951684238100030A15 /* awayinamanger.mp3 */,
+				422778961684238100030A15 /* gotellitto.mp3 */,
+				422778971684238100030A15 /* haveyourself.mp3 */,
+				422778981684238100030A15 /* illbehome.mp3 */,
+				422778991684238100030A15 /* joytotheworld.mp3 */,
+				4227789A1684238100030A15 /* letitsnow.mp3 */,
+				4227789B1684238100030A15 /* littledrummer.mp3 */,
+				4227789C1684238100030A15 /* ocomeall.mp3 */,
+				4227789D1684238100030A15 /* oholynight.mp3 */,
+				4227789E1684238100030A15 /* olittletown.mp3 */,
+				4227789F1684238100030A15 /* silentnight.mp3 */,
+				422778A01684238100030A15 /* silverbells.mp3 */,
+				422778A11684238100030A15 /* whatchild.mp3 */,
+				422778A21684238100030A15 /* whitechristmas.mp3 */,
+				422778A31684238100030A15 /* winterwonderland.mp3 */,
+			);
+			name = music;
+			sourceTree = "<group>";
+		};
+		422778941684236B00030A15 /* video */ = {
+			isa = PBXGroup;
+			children = (
+				422778C316843A8D00030A15 /* fireplace.mp4 */,
+			);
+			name = video;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +255,26 @@
 				42277882168417F500030A15 /* Default@2x.png in Resources */,
 				42277884168417F500030A15 /* Default-568h@2x.png in Resources */,
 				4227788A168417F500030A15 /* ViewController.xib in Resources */,
+				4227789216841B8A00030A15 /* fireplace1.jpg in Resources */,
+				422778A41684238100030A15 /* awayinamanger.mp3 in Resources */,
+				422778A51684238100030A15 /* gotellitto.mp3 in Resources */,
+				422778A61684238100030A15 /* haveyourself.mp3 in Resources */,
+				422778A71684238100030A15 /* illbehome.mp3 in Resources */,
+				422778A81684238100030A15 /* joytotheworld.mp3 in Resources */,
+				422778A91684238100030A15 /* letitsnow.mp3 in Resources */,
+				422778AA1684238100030A15 /* littledrummer.mp3 in Resources */,
+				422778AB1684238100030A15 /* ocomeall.mp3 in Resources */,
+				422778AC1684238100030A15 /* oholynight.mp3 in Resources */,
+				422778AD1684238100030A15 /* olittletown.mp3 in Resources */,
+				422778AE1684238100030A15 /* silentnight.mp3 in Resources */,
+				422778AF1684238100030A15 /* silverbells.mp3 in Resources */,
+				422778B01684238100030A15 /* whatchild.mp3 in Resources */,
+				422778B11684238100030A15 /* whitechristmas.mp3 in Resources */,
+				422778B21684238100030A15 /* winterwonderland.mp3 in Resources */,
+				422778C416843A8D00030A15 /* fireplace.mp4 in Resources */,
+				422778C616844A7500030A15 /* icon.png in Resources */,
+				422778C816844A7700030A15 /* icon@2x.png in Resources */,
+				42A598E91685ACB300E7A4E8 /* crackling.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +406,7 @@
 				4227788F168417F500030A15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -7,7 +7,24 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
+#import <MediaPlayer/MediaPlayer.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <NSURLConnectionDataDelegate, NSURLConnectionDelegate> {
+    NSMutableData *updateData;
+    BOOL gettingUpdate;
+    BOOL autonext;
+    NSString *currentSong;
+    float currentVolume;
+    BOOL musicPaused;
+    AVAudioPlayer *audioPlayer;
+    BOOL moviePlaying;
+}
+
+
+@property (strong, nonatomic) IBOutlet UIImageView *fireplacePic;
+@property (strong, nonatomic) MPMoviePlayerController *moviePlayer;
+
+-(void) checkForUpdates;
 
 @end
